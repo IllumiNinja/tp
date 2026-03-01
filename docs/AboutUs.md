@@ -13,7 +13,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/cyledge.png" width="200px">
 
 [[github](https://github.com/cyledge)]
-[[portfolio](team/johndoe.md)]
 
 * Role: Deliverables and deadlines
 * Responsibilities: Ensure project deliverables are done on time and in the right format.
@@ -27,7 +26,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: Overall project coordination
 
-### Johnny Doe
+### Tan Yong Rui
 
 <img src="images/gwhrg.png" width="200px">
 
@@ -39,7 +38,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 ### Veon Lok
 
 <img src="images/veonlok.png" width="200px">
-[[github](http://github.com/veonlok)]`
+
+[[github](http://github.com/veonlok)]
 
 Role: Developer, Scheduling and Tracking
 
