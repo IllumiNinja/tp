@@ -17,20 +17,23 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Project Advisor
 
-### Jane Doe
+### Trevor Tan
 
-<img src="images/johndoe.png" width="200px">
-[[github](http://github.com/johndoe)]
+<img src="images/teleifo.png" width="200px">
+
+[[github](http://github.com/teleifo)]
 
 * Role: Team Lead
-* Responsibilities: UI
+* Responsibilities: Overall project coordination
 
 ### Johnny Doe
 
-<img src="images/johndoe.png" width="200px">
-[[github](http://github.com/johndoe)] 
-* Role: Developer
-* Responsibilities: Data
+<img src="images/gwhrg.png" width="200px">
+
+[[github](http://github.com/gwhrg)]
+
+* Role: Code Quality
+* Responsibilities: Looks after code quality, ensures adherence to coding standards, etc.
 
 ### Veon Lok
 
@@ -41,10 +44,11 @@ Role: Developer, Scheduling and Tracking
 
 * Responsibilities: In charge of defining, assigning, and tracking project tasks.
 
-### James Doe
-<img src="images/johndoe.png" width="200px">
+### Donavan Er
 
-[[github](http://github.com/johndoe)]
+<img src="images/illumininja.png" width="200px">
+
+[[github](http://github.com/illumininja)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: Testing
